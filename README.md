@@ -17,10 +17,9 @@ ProtocolClient là một client minecraft được thiết kế dùng để khai
   
   ![image](https://github.com/sfclog/ProtocolClient/assets/58846067/08822b8c-49b4-4e22-ade8-91f82799eb60)
 
-## Thư viện sử dụng
+## Thư V
  - [MCP-Reborn 1.18](https://github.com/Hexeption/MCP-Reborn)
  - [ViaLoadBase](https://github.com/FlorianMichael/ViaLoadingBase)
- - 
 
 ## Bản Quyền
 - Bản quyền thuộc về [@sfclog](https://www.github.com/sfclog)
