@@ -1,10 +1,7 @@
 # ProtocolClient
-
-![protocolclient-logo](https://github.com/sfclog/ProtocolClient/assets/58846067/fbf8c072-dfad-4333-91aa-ddc7d21cf187)
-
 ProtocolClient là một client minecraft được thiết kế dùng để khai thác và tấn công những máy chủ Minecraft
 
-
+![image-removebg-preview](https://github.com/sfclog/ProtocolClient/assets/58846067/ada25bc8-df8b-499b-b642-a7eebba96cb1)
 
 
 ## Thư viện sử dụng
