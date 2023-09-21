@@ -4,6 +4,8 @@ ProtocolClient là một client minecraft được thiết kế dùng để khai
 ![image-removebg-preview](https://github.com/sfclog/ProtocolClient/assets/58846067/ada25bc8-df8b-499b-b642-a7eebba96cb1)
 ![protocolclient-logo-removebg-preview](https://github.com/sfclog/ProtocolClient/assets/58846067/0a1e51e1-fbf3-4a93-b54f-411b92594304)
 
+Do là một Exploit Client nên chỉ tập trung vào các module dùng để tấn công máy chủ Minecraft, thường thì một Minecraft Client Expoilt sẽ có các tính năng như sau
+
 ## Tính Năng
 - Spoof Bungee IP Forward
 - UUID Spoof (Bungee)
