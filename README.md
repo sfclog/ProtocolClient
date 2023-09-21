@@ -13,7 +13,7 @@ ProtocolClient là một client minecraft được thiết kế dùng để khai
 - Shell Injection
 - BungeeMsgChannel Injection
 - BackDoor Plugin injection
-  ![image](https://github.com/sfclog/ProtocolClient/assets/58846067/8807c493-c35b-42f1-90d0-30cf5939a77a)
+  
   ![image](https://github.com/sfclog/ProtocolClient/assets/58846067/08822b8c-49b4-4e22-ade8-91f82799eb60)
 
 
