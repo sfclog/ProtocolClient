@@ -16,7 +16,7 @@ Do là một Exploit Client nên chỉ tập trung vào các module dùng để 
 - BungeeMsgChannel Injection
 - BackDoor Plugin Injection
 - ...
-- 
+  
 ## Hình Ảnh
 
 ![image](https://github.com/sfclog/ProtocolClient/assets/58846067/08822b8c-49b4-4e22-ade8-91f82799eb60)
