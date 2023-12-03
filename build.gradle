@@ -61,12 +61,13 @@ dependencies {
     
     implementation 'net.minecraftforge:forgespi:' + spi_version
     implementation "org.yaml:snakeyaml:2.0"
+  
     implementation group: 'org.sonatype.nexus', name: 'google-guava-eventbus', version: '3.2.0-01'
     implementation 'org.reflections:reflections:0.10'
     implementation 'com.github.Vatuu:discord-rpc:1.6.2'
     implementation "com.viaversion:viarewind-core:3.0.0-SNAPSHOT"
-    implementation "com.viaversion:viaversion:4.8.0-23w31a-SNAPSHOT"
-    implementation "com.viaversion:viabackwards:4.8.0-23w31a-SNAPSHOT"
+    implementation "com.viaversion:viaversion:4.9.0-1.20.3-pre1-SNAPSHOT"
+    implementation "com.viaversion:viabackwards:4.9.0-1.20.3-pre1-SNAPSHOT"
   
 
 }
